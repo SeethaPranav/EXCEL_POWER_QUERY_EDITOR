@@ -8,6 +8,8 @@ Columns: 20 rows and 8 columns with various data types.
 Uncleaned Aspects:-
 
 * Inconsistent casing in names and cities.
+
+* Removing Duplicates
   
 * Potential email formatting issues.
   
